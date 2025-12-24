@@ -13,7 +13,7 @@
 ### 🚀 About Me
 I am a tinker, maker, programmer, gamer, and **F1 enthusiast** who absolutely loves coding and open-source. Professionally, I specialize in building robust bespoke applications, designing systems that are light yet powerful, distributed, and efficient.
 
-* **Current Obsession:** Developing for the **Panic Playdate** handheld (currently mastering writing image data to the frame buffer).
+* **Current Obsession:** Developing for the **Panic Playdate** handheld (currently working on snaps and cranky dog).
 * **The "Fun" Stuff:** Mobile forensics, app reverse engineering, and game development in Unreal Engine.
 * **Note:** This account (**PixelAddictUnlocked**) is my new home after losing 2FA access to my original account. You can still view my legacy projects at [kjbaker-uk](https://github.com/kjbaker-uk).
 
